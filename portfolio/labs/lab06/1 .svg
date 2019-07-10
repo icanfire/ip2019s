@@ -40,6 +40,6 @@
 <circle fill="Lavender" stroke="#f0f" cx="206" cy="114" r="16" opacity="0.2">
     <animate attributeName="opacity" to="1" begin="0s" dur="20s" fill="freeze" repeatCount="0" />
   </circle>
-  </circle>
+  
 
 </svg>
