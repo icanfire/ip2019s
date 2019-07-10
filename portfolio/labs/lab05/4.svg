@@ -1,0 +1,8 @@
+
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0,0,512,512">
+<circle fill="white" stroke="#890000" stroke-width="02" cx="220" cy="200" r="100"/>
+<circle fill="black" stroke="#890000" stroke-width="" cx="200" cy="200" r="5"/>
+<circle fill="bl" stroke="#890000" stroke-width="0" cx="170" cy="150" r="5"/>
+<circle fill="black" stroke="#890000" stroke-width="" cx="250" cy="280" r="5"/>
+<circle fill="bl" stroke="#890000" stroke-width="0" cx="230" cy="180" r="5"/>
+</svg>
